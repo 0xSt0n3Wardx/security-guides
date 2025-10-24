@@ -17,6 +17,3 @@ I am passionate about security, and this repository showcases my stack of SIEM, 
 ### 🌐 Network Security
 - **Suricata** – Intrusion detection and prevention engine (IDS/IPS)
 
-## 🔗 Infrastructure Integration
-
-This security stack is built on top of my **[Homelab Infrastructure](link-to-infra-repo)**, leveraging its reverse proxy, authentication, and monitoring layers.
