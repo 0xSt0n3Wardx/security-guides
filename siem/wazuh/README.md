@@ -178,3 +178,11 @@ sudo systemctl enable wazuh-agent
 sudo systemctl start wazuh-agent
 ```
 > 💡 Vérifiez dans le Dashboard que l’agent apparaît avec le statut Active.
+
+---
+
+## 🔗 Liens utiles
+
+[Documentation Wazuh Docker](https://documentation.wazuh.com/current/deployment-options/docker/index.html)
+
+[Repo GitHub Wazuh](https://github.com/wazuh/wazuh)
