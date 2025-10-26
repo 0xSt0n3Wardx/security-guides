@@ -98,11 +98,11 @@ Copiez la valeur retournée (le hash).
 
 ```yaml
 admin:
-	hash: "<NOUVEAU_HASH_ICI>"
-	reserved: true
-	backend_roles:
-		- "admin"
-	description: "Admin user"
+    hash: "<NOUVEAU_HASH_ICI>"
+    reserved: true
+    backend_roles:
+        - "admin"
+    description: "Admin user"
 ```
 
 4. Redémarrez la stack:
