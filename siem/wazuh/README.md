@@ -135,12 +135,12 @@ Reconnectez-vous au dashboard avec le nouveau mot de passe.
 
 ```yaml
 hosts:
-	- 1513629884013:
-			url: "https://wazuh.manager"
-			port: 55000
-			username: wazuh-wui
-			password: "<NOUVEAU_API_PASSWORD>"
-			run_as: false
+    - 1513629884013:
+        url: "https://wazuh.manager"
+        port: 55000
+        username: wazuh-wui
+        password: "<NOUVEAU_API_PASSWORD>"
+        run_as: false
 ```
 
 Puis mettre à jour les variables API_USERNAME et API_PASSWORD dans docker-compose.yml.
